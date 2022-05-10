@@ -1,0 +1,76 @@
+[General]
+Name=AsciiPaint2
+FileName=C:\devinfo.net\consoul\AsciiPaint\AsciiPaint.accdb
+BuildFileName=C:\devinfo.net\consoul\AsciiPaint\AsciiPaint.DLL
+HelpFile=
+HelpContextID=0
+Description=Ascii Art painting with the devinfo.net consoul library
+Mode=0
+Protection=0
+Saved=Vrai
+Type=100
+ConditionalCompilationArgs=ALLOW_CODE_EXPORT = -1
+
+[References]
+Count=6
+Reference_1={000204EF-0000-0000-C000-000000000046}
+Reference_2={4AFFC9A0-5F99-101B-AF4E-00AA003F0F07}
+Reference_3={00020430-0000-0000-C000-000000000046}
+Reference_4={4AC9E1DA-5BAD-4AC7-86E3-24F4CDCECA28}
+Reference_5={0002E157-0000-0000-C000-000000000046}
+Reference_6={2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}
+
+
+[{000204EF-0000-0000-C000-000000000046}]
+BuiltIn=Vrai
+FullPath=C:\Program Files (x86)\Common Files\Microsoft Shared\VBA\VBA7.1\VBE7.DLL
+Guid={000204EF-0000-0000-C000-000000000046}
+IsBroken=Faux
+Major=4
+Minor=2
+Name=VBA
+
+[{4AFFC9A0-5F99-101B-AF4E-00AA003F0F07}]
+BuiltIn=Vrai
+FullPath=C:\Program Files (x86)\Microsoft Office\root\Office16\MSACC.OLB
+Guid={4AFFC9A0-5F99-101B-AF4E-00AA003F0F07}
+IsBroken=Faux
+Major=9
+Minor=0
+Name=Access
+
+[{00020430-0000-0000-C000-000000000046}]
+BuiltIn=Faux
+FullPath=C:\Windows\SysWOW64\stdole2.tlb
+Guid={00020430-0000-0000-C000-000000000046}
+IsBroken=Faux
+Major=2
+Minor=0
+Name=stdole
+
+[{4AC9E1DA-5BAD-4AC7-86E3-24F4CDCECA28}]
+BuiltIn=Faux
+FullPath=C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE16\ACEDAO.DLL
+Guid={4AC9E1DA-5BAD-4AC7-86E3-24F4CDCECA28}
+IsBroken=Faux
+Major=12
+Minor=0
+Name=DAO
+
+[{0002E157-0000-0000-C000-000000000046}]
+BuiltIn=Faux
+FullPath=C:\Program Files (x86)\Common Files\Microsoft Shared\VBA\VBA6\VBE6EXT.OLB
+Guid={0002E157-0000-0000-C000-000000000046}
+IsBroken=Faux
+Major=5
+Minor=3
+Name=VBIDE
+
+[{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}]
+BuiltIn=Faux
+FullPath=C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE16\MSO.DLL
+Guid={2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}
+IsBroken=Faux
+Major=2
+Minor=8
+Name=Office
